@@ -2,6 +2,10 @@ nav{
     background: rgba(30, 123, 245, 0.986 );
     height: 80px;
     width: 100%;
+    position: sticky;
+    margin-top: -0.6%;
+    margin-bottom: 0.5%;
+
 }
 label.logo{
     color: snow;
@@ -11,7 +15,7 @@ label.logo{
     font-weight: bold;
     position: absolute;
     left: 50px;
-    t
+    
 }
 nav ul{
     float: right;
@@ -86,4 +90,11 @@ nav ul li a {
         text-align: center;
         color: gray;
     }
+    /*.sticky{
+        position: fixed;
+
+    }
+    body{
+        position: relative;
+    }*/
     

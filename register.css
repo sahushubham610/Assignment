@@ -2,6 +2,7 @@ h1{
     text-align: center;
     background-color: blue;
     color:white;
+    margin-top: -0.6%;
 }
 p{
     text-align: center;
@@ -9,5 +10,5 @@ p{
 }
 .button{
     margin-top: 10px;
-    margin-left: 800px;
+    margin-left: 650px;
 }

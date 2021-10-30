@@ -2,6 +2,7 @@ h1{
     text-align: center;
     background: blue;
     color: white;
+    margin-top: -0.6%;
 }
 p{
     text-align: center;
@@ -15,5 +16,5 @@ ol, li{
     color: gray;
 }
 button{
-    margin-left: 800px;
+    margin-left: 650px;
 }
