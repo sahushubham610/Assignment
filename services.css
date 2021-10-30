@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background: blue;
+    color: white;
+}
+p{
+    text-align: center;
+    color: gray;
+}
+/*.list{
+    align-content: center;
+
+}*/
+ol, li{
+    color: gray;
+}
+button{
+    margin-left: 800px;
+}

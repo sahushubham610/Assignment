@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+h4{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.tbl{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: gray;
+}
+button{
+    float: left;
+}
+.button{
+    margin-left: 800px;
+    margin-top: 10px;
+}

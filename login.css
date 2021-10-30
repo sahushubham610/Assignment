@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+p{
+    text-align: center;
+    color: gray;
+}
+.button{
+    margin-left: 800px;
+}
